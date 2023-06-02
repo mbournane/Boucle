@@ -1,0 +1,15 @@
+C:\WildSchoul_Formation\S02\Quete\Boucle\bin\Debug\net7.0\Boucle.exe
+C:\WildSchoul_Formation\S02\Quete\Boucle\bin\Debug\net7.0\Boucle.deps.json
+C:\WildSchoul_Formation\S02\Quete\Boucle\bin\Debug\net7.0\Boucle.runtimeconfig.json
+C:\WildSchoul_Formation\S02\Quete\Boucle\bin\Debug\net7.0\Boucle.dll
+C:\WildSchoul_Formation\S02\Quete\Boucle\bin\Debug\net7.0\Boucle.pdb
+C:\WildSchoul_Formation\S02\Quete\Boucle\obj\Debug\net7.0\Boucle.csproj.AssemblyReference.cache
+C:\WildSchoul_Formation\S02\Quete\Boucle\obj\Debug\net7.0\Boucle.GeneratedMSBuildEditorConfig.editorconfig
+C:\WildSchoul_Formation\S02\Quete\Boucle\obj\Debug\net7.0\Boucle.AssemblyInfoInputs.cache
+C:\WildSchoul_Formation\S02\Quete\Boucle\obj\Debug\net7.0\Boucle.AssemblyInfo.cs
+C:\WildSchoul_Formation\S02\Quete\Boucle\obj\Debug\net7.0\Boucle.csproj.CoreCompileInputs.cache
+C:\WildSchoul_Formation\S02\Quete\Boucle\obj\Debug\net7.0\Boucle.dll
+C:\WildSchoul_Formation\S02\Quete\Boucle\obj\Debug\net7.0\refint\Boucle.dll
+C:\WildSchoul_Formation\S02\Quete\Boucle\obj\Debug\net7.0\Boucle.pdb
+C:\WildSchoul_Formation\S02\Quete\Boucle\obj\Debug\net7.0\Boucle.genruntimeconfig.cache
+C:\WildSchoul_Formation\S02\Quete\Boucle\obj\Debug\net7.0\ref\Boucle.dll
